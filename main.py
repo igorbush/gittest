@@ -1,4 +1,5 @@
 print("Hello!")
 print("Python!")
 print("Cool!")
-print("eeeee!")
+print("PYTHON")
+print("COOL")
